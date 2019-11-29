@@ -44,7 +44,7 @@
   </dependencies>
 
   <build>
-    <finalName>Web01</finalName>
+    <finalName>Web02</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.tomcat.maven</groupId>
